@@ -6,7 +6,7 @@
   <link href="https://nyan-404.github.io/atom.xml" rel="self"/>
   
   <link href="https://nyan-404.github.io/"/>
-  <updated>2025-09-10T10:09:20.535Z</updated>
+  <updated>2025-09-12T08:35:24.397Z</updated>
   <id>https://nyan-404.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://nyan-404.github.io/2025/09/09/my-first-blog/"/>
     <id>https://nyan-404.github.io/2025/09/09/my-first-blog/</id>
     <published>2025-09-09T09:05:37.000Z</published>
-    <updated>2025-09-10T10:09:20.535Z</updated>
+    <updated>2025-09-12T08:35:24.397Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello Hexo!"></a>Hello Hexo!</h1><p>这是我用 Hexo 写的第一篇文章 🎉</p>]]></content>
     
@@ -34,6 +34,8 @@
     
     
     
+    
+    <category term="diary" scheme="https://nyan-404.github.io/tags/diary/"/>
     
   </entry>
   
